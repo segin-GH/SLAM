@@ -1,3 +1,5 @@
 # SLAM
 
-writing slam from scratch; y bcz why not?
+## GOAL
+* [ ] write from scratch no library
+* [ ] it should work!!
