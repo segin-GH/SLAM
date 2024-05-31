@@ -44,11 +44,6 @@ def main():
     ax.set_ylabel("y")
     ax.set_zlabel("z")
 
-    # setting axis limits
-    ax.set_xlim(-200, 300)
-    ax.set_ylim(-20, 0)
-    ax.set_zlim(0, 400)
-
     ax.view_init(elev=-40, azim=270)
 
     plt.show()
